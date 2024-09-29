@@ -1,3 +1,6 @@
+<p>
+  A Nestjs App to view moviesList(TopRated,NowPlaying,Coming,Popular) for authorized users using (Postgres) as a DB for the users  
+</p>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
