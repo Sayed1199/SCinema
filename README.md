@@ -2,7 +2,7 @@
   A Nestjs App to view realtime updates of moviesList(TopRated,NowPlaying,Coming,Popular) along with authentication and authorization of users stored in a postgres DB using the JWT strategy and Custom Auth Decorators.
 </p>
 
-<h1>Documentation is found here <a href="https://shrill-greta-ssoft-0885b5fb.koyeb.app/docs">/docs</a> </h1>
+<h1>Api Documentation is found here <a href="https://shrill-greta-ssoft-0885b5fb.koyeb.app/docs">/Documentation</a> </h1>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
