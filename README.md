@@ -1,5 +1,5 @@
 <p>
-  A Nestjs App to view moviesList(TopRated,NowPlaying,Coming,Popular) for authorized users using (Postgres) as a DB for the users  
+  A Nestjs App to view realtime updates of moviesList(TopRated,NowPlaying,Coming,Popular) along with authentication and authorization of users stored in a postgres DB using the JWT strategy and Custom Auth Decorators.
 </p>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
