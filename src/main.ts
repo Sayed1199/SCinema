@@ -16,7 +16,7 @@ async function bootstrap() {
     .setTitle('S-Cinema')
     .setDescription('Api doumentation of S-Cinema')
     .setVersion('1.0')
-    .addServer(`http://localhost:${port}/`, 'Local environment')
+    .addServer(`https://shrill-greta-ssoft-0885b5fb.koyeb.app/`, 'Server')
     .addBearerAuth(  {  
       description: `Please enter the token here`,
       name: 'Authorization',
